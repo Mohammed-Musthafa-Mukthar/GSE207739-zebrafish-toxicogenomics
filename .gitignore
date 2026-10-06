@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Large sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Raw downloaded data
+data/raw_fastq/
+data/raw_processed/
+
+# Reference genome files
+data/reference/
